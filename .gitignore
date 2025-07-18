@@ -6,6 +6,9 @@
 .firebase
 functions/node_modules
 
+# Build output
+frontend/dist
+
 # Misc
 *.log
 .dataconnect
